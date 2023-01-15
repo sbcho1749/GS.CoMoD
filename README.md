@@ -1,5 +1,6 @@
 # GS.CoMoD
 
+# disease genes and reference data
 dm.genes: disease genes of type 2 diabetes from DisGeNET database
 
 htn.genes: disease genes of hypertension from DisGeNET database
